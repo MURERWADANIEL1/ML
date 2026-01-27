@@ -69,8 +69,8 @@ This section details the role of each folder in the repository.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/MURERWADANIEL1/Final_Year_Project # Replace with your repo URL if different
-    cd Final_Year_Project # Or your repository's root folder name
+    git clone https://github.com/MURERWADANIEL1/Final_Year_Project 
+    cd Final_Year_Project
 
     ```
 2.  **Record Audio**: Power on the ESP32 device. Run the recording script to capture a 15-second audio clip.
